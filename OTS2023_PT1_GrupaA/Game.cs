@@ -83,7 +83,7 @@ namespace OTS2026_PT1_GrupaA
             return true;
         }
 
-        public void ResolvePlayerPosition()
+        public void ResolvePlayerPosition(Position position)
         {
             FieldContent fieldContent = Map.Fields[Player.Position.X, Player.Position.Y].Content;
 
