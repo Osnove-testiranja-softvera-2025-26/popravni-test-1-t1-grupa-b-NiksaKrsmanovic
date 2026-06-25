@@ -1,0 +1,5 @@
+﻿# Faktori i ekvivalentne vrednosti za CalculateScore (F4)
+UpecaneRibe: Ispod_8, Izmedju_8_i_15, Preko_15
+SakupljeniMamci: Manje_od_12, Bar_12
+SakupioCamac: true, false
+PosetioPond: true, false

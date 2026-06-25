@@ -111,7 +111,7 @@ namespace OTS2026_PT1_GrupaA.Test
 
             Assert.That(result, Is.False);
         }
-
+        
        
         [Test]
         public void MovePlayer_ValidMoveRight_ChangesPosition()
